@@ -1,0 +1,107 @@
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\Buse\Desktop\CBU - Software Engineer\Nesneye Yönelik Programlama\Project\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\ozyur\Desktop\Programlar\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+C:\Users\ozyur\Documents\Visual Studio 2017\Projects\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.cache
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+D:\Kaan\Yazılım\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.cache
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+D:\Projeler\C#\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe.config
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.exe
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\bin\Debug\BankaYazilimOtomasyonu.pdb
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csprojAssemblyReference.cache
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormBanka.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHavale.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesap.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapAc.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapOzeti.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormHesapSil.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormMain.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaCekme.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.FormParaYatirma.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.Properties.Resources.resources
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.GenerateResource.cache
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.exe
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\BankaYazilimOtomasyonu\BankaYazilimOtomasyonu\obj\Debug\BankaYazilimOtomasyonu.pdb
